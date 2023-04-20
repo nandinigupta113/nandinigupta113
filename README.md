@@ -1,6 +1,6 @@
 ### Hey, I'm Nandini👋
 # 💫 About Me:
-Welcome to my profile! I'm a student, aspiring Full Stack Developer, part-time coder and full-time learner. I am currently interning @HSR-Hi-Tech-Sol, and closely working with a national level organization @ComputerSocietyofIndia. Thanks for visiting and I'd love to connect.
+Welcome to my profile! I'm a student, aspiring Full Stack Developer, part-time coder and full-time learner. I am currently interning @HSR-Hi-Tech-Solutions, and closely working with a national level organization @ComputerSocietyofIndia. Thanks for visiting and I'd love to connect.
 
 
 ## 🌐 Socials:
